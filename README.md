@@ -7,3 +7,11 @@
 Как установить Nuget пакеты?
 Проект -> Управление пакетами NuGet -> устанавливаем следующие пакеты:
 ![image](https://github.com/user-attachments/assets/f05ece0e-f55d-4491-a185-127cfecb3712)
+
+
+## Структура проекта
+
+- `ZooHSE/Program.cs` - основной файл приложения.
+- `ZooHSE/Animals` - директория с классами животных.
+- `ZooHSE/Things` - директория с классами предметов.
+- `ConsoleApp1/Program.cs` - файл с тестами для класса `Z
