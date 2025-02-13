@@ -1,3 +1,9 @@
 # HSE_KPO
 
-![image](https://github.com/user-attachments/assets/cf5b055d-3d00-48a3-9f7a-9df23b319d9b)
+# Запуск программы:
+Для работы программы, должны быть скачаны NuGet пакеты:
+
+
+Как установить Nuget пакеты?
+Проект -> Управление пакетами NuGet -> устанавливаем следующие пакеты:
+![image](https://github.com/user-attachments/assets/f05ece0e-f55d-4491-a185-127cfecb3712)
