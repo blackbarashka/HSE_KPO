@@ -28,6 +28,12 @@ namespace ZooHSE
 
             while (true)
             {
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine("============================================");
+                Console.WriteLine("                М Е Н Ю                     ");
+                Console.WriteLine("============================================");
+                Console.ResetColor();
+
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("\nВыберите дейсвтвие:");
                 Console.WriteLine("1. Добавить животное.");
@@ -38,6 +44,7 @@ namespace ZooHSE
                 Console.WriteLine("6. Выход.");
                 Console.ResetColor();
 
+                Console.Write("\nВаш выбор: ");
                 var choice = Console.ReadLine();
 
                 switch (choice)
