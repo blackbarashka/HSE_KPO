@@ -28,7 +28,7 @@ namespace ZooHSE
 
             while (true)
             {
-                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("============================================");
                 Console.WriteLine("                М Е Н Ю                     ");
                 Console.WriteLine("============================================");
