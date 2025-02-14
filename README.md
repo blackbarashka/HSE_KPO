@@ -54,6 +54,7 @@
 - `ZooHSE/Program.cs` - основной файл приложения.
 - `ZooHSE/Animals` - директория с классами животных.
 - `ZooHSE/Things` - директория с классами предметов.
+- `ZooHSE/Interface` - директория с интерфейсами.
 - `ConsoleApp1/Program.cs` - файл с тестами для класса ZooHSE
 
 ---
@@ -86,7 +87,7 @@
 ## Тесты
 Также реализованы юнит тесты с использованием NuGet пакета `XUnit` и `Moq`.
 
-Тесты находятся в папке ConsoleApp1.
+Тесты находятся в папке ConsoleApp1{https://github.com/blackbarashka/HSE_KPO/tree/main/ZooHSE/ConsoleApp1}.
 
 Тесты покрывают всю основную логику программы.
 ### Запуск тестов
