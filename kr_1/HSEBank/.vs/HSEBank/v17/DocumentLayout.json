@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umaha\\source\\repos\\HSEBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\menuhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\menuhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\domain\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\domain\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\inputhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\inputhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\commands and decorator\\timingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\commands and decorator\\timingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\commands and decorator\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\commands and decorator\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\commands and decorator\\createbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\commands and decorator\\createbankaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\facade\\financialfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\facade\\financialfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\csvdataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\csvdataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\operationrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\operationrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\operationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\ioperationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\categoryrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\categoryrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\repositories\\bankaccountrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\repositories\\bankaccountrepositoryproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\yamldataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\yamldataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\yamldataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\yamldataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\jsondataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\jsondataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\jsondataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\jsondataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\dataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\dataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\importexport\\csvdataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\importexport\\csvdataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\factories\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\factories\\operationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\factories\\categoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\factories\\categoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\factories\\bankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\factories\\bankaccountfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|c:\\users\\umaha\\source\\repos\\hsebank\\hsebank\\domain\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB0FDE39-2B59-4EF9-B827-C85893F94886}|HSEBank\\HSEBank.csproj|solutionrelative:hsebank\\domain\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinancialFacade.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Facade\\FinancialFacade.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Facade\\FinancialFacade.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Facade\\FinancialFacade.cs",
+              "RelativeToolTip": "HSEBank\\Facade\\FinancialFacade.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAADwv8oAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:43:37.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\InputHelpers.cs",
+              "RelativeDocumentMoniker": "HSEBank\\InputHelpers.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\InputHelpers.cs",
+              "RelativeToolTip": "HSEBank\\InputHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:38:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\MenuHandlers.cs",
+              "RelativeDocumentMoniker": "HSEBank\\MenuHandlers.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\MenuHandlers.cs",
+              "RelativeToolTip": "HSEBank\\MenuHandlers.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAA2wE4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:37:35.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CsvDataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\CsvDataImporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\CsvDataImporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\CsvDataImporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\CsvDataImporter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:06:08.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YamlDataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\YamlDataImporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\YamlDataImporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\YamlDataImporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\YamlDataImporter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:19:14.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\DataImporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\DataImporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\DataImporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\DataImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:05:39.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JsonDataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\JsonDataImporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\JsonDataImporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\JsonDataImporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\JsonDataImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:19:54.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JsonDataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\JsonDataExporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\JsonDataExporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\JsonDataExporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\JsonDataExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:21:48.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Program.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Program.cs",
+              "RelativeToolTip": "HSEBank\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:36:35.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\BankAccountRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\BankAccountRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\BankAccountRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\BankAccountRepository.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:12:56.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:52:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YamlDataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\YamlDataExporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\YamlDataExporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\YamlDataExporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\YamlDataExporter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:24:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CsvDataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\CsvDataExporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\CsvDataExporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\CsvDataExporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\CsvDataExporter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:17:10.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\DataExporter.cs",
+              "RelativeDocumentMoniker": "HSEBank\\ImportExport\\DataExporter.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\ImportExport\\DataExporter.cs",
+              "RelativeToolTip": "HSEBank\\ImportExport\\DataExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:17:36.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\OperationRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\OperationRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\OperationRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\OperationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:53:57.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankAccountRepositoryProxy.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\BankAccountRepositoryProxy.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\BankAccountRepositoryProxy.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\BankAccountRepositoryProxy.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\BankAccountRepositoryProxy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:42:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\BankAccount.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Domain\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\BankAccount.cs",
+              "RelativeToolTip": "HSEBank\\Domain\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:38:06.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\Operation.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Domain\\Operation.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\Operation.cs",
+              "RelativeToolTip": "HSEBank\\Domain\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:39:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Domain\\Category.cs",
+              "RelativeToolTip": "HSEBank\\Domain\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:38:35.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OperationRepositoryProxy.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\OperationRepositoryProxy.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\OperationRepositoryProxy.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\OperationRepositoryProxy.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\OperationRepositoryProxy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:59:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOperationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\IOperationRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\IOperationRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\IOperationRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\IOperationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:53:29.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:51:06.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBankAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\IBankAccountRepository.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\IBankAccountRepository.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\IBankAccountRepository.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\IBankAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:42:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryRepositoryProxy.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\CategoryRepositoryProxy.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Repositories\\CategoryRepositoryProxy.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Repositories\\CategoryRepositoryProxy.cs",
+              "RelativeToolTip": "HSEBank\\Repositories\\CategoryRepositoryProxy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:53:02.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\TimingDecorator.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Commands and Decorator\\TimingDecorator.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\TimingDecorator.cs",
+              "RelativeToolTip": "HSEBank\\Commands and Decorator\\TimingDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:49:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\ICommand.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Commands and Decorator\\ICommand.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\ICommand.cs",
+              "RelativeToolTip": "HSEBank\\Commands and Decorator\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:48:35.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBankAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\CreateBankAccountCommand.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Commands and Decorator\\CreateBankAccountCommand.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Commands and Decorator\\CreateBankAccountCommand.cs",
+              "RelativeToolTip": "HSEBank\\Commands and Decorator\\CreateBankAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:49:05.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OperationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\OperationFactory.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Factories\\OperationFactory.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\OperationFactory.cs",
+              "RelativeToolTip": "HSEBank\\Factories\\OperationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:41:14.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\CategoryFactory.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Factories\\CategoryFactory.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\CategoryFactory.cs",
+              "RelativeToolTip": "HSEBank\\Factories\\CategoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:40:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BankAccountFactory.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\BankAccountFactory.cs",
+              "RelativeDocumentMoniker": "HSEBank\\Factories\\BankAccountFactory.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSEBank\\HSEBank\\Factories\\BankAccountFactory.cs",
+              "RelativeToolTip": "HSEBank\\Factories\\BankAccountFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:40:01.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

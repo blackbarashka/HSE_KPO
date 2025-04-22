@@ -1,0 +1,61 @@
+{
+  "BankAccounts": [
+    {
+      "Id": 1,
+      "Name": "Umakhan",
+      "Balance": 0
+    },
+    {
+      "Id": 2,
+      "Name": "Mika",
+      "Balance": 3456
+    },
+    {
+      "Id": 3,
+      "Name": "Maga",
+      "Balance": 2345
+    },
+    {
+      "Id": 4,
+      "Name": "Suleiman Kerimov",
+      "Balance": 9999999
+    }
+  ],
+  "Categories": [
+    {
+      "Id": 1,
+      "Type": 0,
+      "Name": "Kafe"
+    },
+    {
+      "Id": 2,
+      "Type": 0,
+      "Name": "Resrt"
+    },
+    {
+      "Id": 3,
+      "Type": 1,
+      "Name": "Job"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": 1,
+      "Type": 0,
+      "BankAccountId": 1,
+      "Amount": 228,
+      "Date": "2023-12-12T00:00:00",
+      "Description": "",
+      "CategoryId": 1
+    },
+    {
+      "Id": 2,
+      "Type": 1,
+      "BankAccountId": 2,
+      "Amount": 89,
+      "Date": "2006-02-09T00:00:00",
+      "Description": "",
+      "CategoryId": 3
+    }
+  ]
+}

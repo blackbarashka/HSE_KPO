@@ -1,0 +1,38 @@
+bankAccounts:
+- id: 1
+  name: Umakhan
+  balance: 0
+- id: 2
+  name: Mika
+  balance: 3456
+- id: 3
+  name: Maga
+  balance: 2345
+- id: 4
+  name: Suleiman Kerimov
+  balance: 9999999
+categories:
+- id: 1
+  type: Income
+  name: Kafe
+- id: 2
+  type: Income
+  name: Resrt
+- id: 3
+  type: Expense
+  name: Job
+operations:
+- id: 1
+  type: Income
+  bankAccountId: 1
+  amount: 228
+  date: 2023-12-12T00:00:00.0000000
+  description: ''
+  categoryId: 1
+- id: 2
+  type: Expense
+  bankAccountId: 2
+  amount: 89
+  date: 2006-02-09T00:00:00.0000000
+  description: ''
+  categoryId: 3

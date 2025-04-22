@@ -1,0 +1,16 @@
+Id;Name;Balance
+1;Umakhan;0
+2;Mika;3456
+3;Maga;2345
+4;Suleiman Kerimov;9999999
+
+Categories
+Id;Type;Name
+1;Income;Kafe
+2;Income;Resrt
+3;Expense;Job
+
+Operations
+Id;Type,BankAccountId;Amount;Date;Description;CategoryId
+1,Income,1,228,12.12.2023 0:00:00,,1
+2,Expense,2,89,09.02.2006 0:00:00,,3

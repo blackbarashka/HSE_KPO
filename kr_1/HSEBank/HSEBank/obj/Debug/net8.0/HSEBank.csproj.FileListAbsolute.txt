@@ -1,0 +1,17 @@
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfoInputs.cache
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.AssemblyInfo.cs
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.csproj.CoreCompileInputs.cache
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\HSEBank.exe
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\HSEBank.deps.json
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\HSEBank.runtimeconfig.json
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\HSEBank.dll
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\HSEBank.pdb
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.dll
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\refint\HSEBank.dll
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.pdb
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.genruntimeconfig.cache
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\ref\HSEBank.dll
+C:\Users\umaha\source\repos\HSEBank\HSEBank\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.csproj.AssemblyReference.cache
+C:\Users\umaha\source\repos\HSEBank\HSEBank\obj\Debug\net8.0\HSEBank.csproj.Up2Date
