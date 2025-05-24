@@ -1,0 +1,6 @@
+@HSE.AntiPlagiat.ApiGateway_HostAddress = http://localhost:5264
+
+GET {{HSE.AntiPlagiat.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

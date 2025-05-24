@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|init-db{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\init-multiple-databases.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|init-db{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:init-multiple-databases.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\models\\textanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\models\\textanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\models\\similarityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\models\\similarityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\data\\analysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\data\\analysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\controllers\\analysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|solutionrelative:hse.antiplagiat.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\analysistests\\analysiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|solutionrelative:analysistests\\analysiscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\analysistests\\similarityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|solutionrelative:analysistests\\similarityservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\analysistests\\textanalysisservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|solutionrelative:analysistests\\textanalysisservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.apigateway\\hse.antiplagiat.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|solutionrelative:hse.antiplagiat.apigateway\\hse.antiplagiat.apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\isimilarityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\isimilarityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\itextanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\itextanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\iwordcloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\iwordcloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\similarityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\similarityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\textanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\textanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\services\\wordcloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\services\\wordcloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\data\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\data\\filedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\models\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\models\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\pages\\filedetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\pages\\filedetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\analysistests\\analysistests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AAFC647-EDAB-4061-B4DB-55EF1F5FBA4D}|AnalysisTests\\AnalysisTests.csproj|solutionrelative:analysistests\\analysistests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\hse.antiplagiat.fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\hse.antiplagiat.fileanalysisservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\migrations\\20250515090837_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\migrations\\20250515090837_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{659BD7CB-82D2-4678-B560-89335AB098DC}|HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj|solutionrelative:hse.antiplagiat.apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\pages\\filedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\pages\\filedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\hse.antiplagiat.filestorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\hse.antiplagiat.filestorageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.filestorageservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81A4AE1B-5684-483F-ACA9-D86D2070E43A}|HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj|solutionrelative:hse.antiplagiat.filestorageservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\hse.antiplagiat.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\hse.antiplagiat.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.fileanalysisservice\\hse.antiplagiat.fileanalysisservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9629F962-84EC-4044-A1DF-7213143ACDA9}|HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj|solutionrelative:hse.antiplagiat.fileanalysisservice\\hse.antiplagiat.fileanalysisservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|c:\\users\\umaha\\source\\repos\\hse_antiplagiat\\hse.antiplagiat.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5CC6AED-F85D-4D84-A08D-EF319AF3177F}|HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj|solutionrelative:hse.antiplagiat.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "init-multiple-databases.sh",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\init-multiple-databases.sh",
+              "RelativeDocumentMoniker": "init-multiple-databases.sh",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\init-multiple-databases.sh",
+              "RelativeToolTip": "init-multiple-databases.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-05-24T22:47:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimilarityResult.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Models\\SimilarityResult.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Models\\SimilarityResult.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Models\\SimilarityResult.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Models\\SimilarityResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalysisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Data\\AnalysisDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:10:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:14:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\Program.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:49:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextAnalysisServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\TextAnalysisServiceTests.cs",
+              "RelativeDocumentMoniker": "AnalysisTests\\TextAnalysisServiceTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\TextAnalysisServiceTests.cs",
+              "RelativeToolTip": "AnalysisTests\\TextAnalysisServiceTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:28:09.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimilarityServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\SimilarityServiceTests.cs",
+              "RelativeDocumentMoniker": "AnalysisTests\\SimilarityServiceTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\SimilarityServiceTests.cs",
+              "RelativeToolTip": "AnalysisTests\\SimilarityServiceTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:39:01.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysisControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\AnalysisControllerTests.cs",
+              "RelativeDocumentMoniker": "AnalysisTests\\AnalysisControllerTests.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\AnalysisControllerTests.cs",
+              "RelativeToolTip": "AnalysisTests\\AnalysisControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:30:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Models\\TextAnalysisResult.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Models\\TextAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Models\\TextAnalysisResult.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Models\\TextAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HSE.AntiPlagiat.ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj",
+              "RelativeToolTip": "HSE.AntiPlagiat.ApiGateway\\HSE.AntiPlagiat.ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T09:17:27.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISimilarityService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\ISimilarityService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\ISimilarityService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\ISimilarityService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\ISimilarityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:37:52.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITextAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\ITextAnalysisService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\ITextAnalysisService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\ITextAnalysisService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\ITextAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:37:55.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWordCloudService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\IWordCloudService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\IWordCloudService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\IWordCloudService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\IWordCloudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:40:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TextAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\TextAnalysisService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\TextAnalysisService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\TextAnalysisService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\TextAnalysisService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:53:27.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WordCloudService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\WordCloudService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\WordCloudService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\WordCloudService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\WordCloudService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:59:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:52:23.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Data\\FileDbContext.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Data\\FileDbContext.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Data\\FileDbContext.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Data\\FileDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:37:22.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Models\\FileInfo.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Models\\FileInfo.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Models\\FileInfo.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Models\\FileInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:37:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:36:01.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Services\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:35:39.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Program.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Program.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:34:00.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SimilarityService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\SimilarityService.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Services\\SimilarityService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Services\\SimilarityService.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Services\\SimilarityService.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAA7wIEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:13:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:51:43.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Program.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Program.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:35:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HSE.AntiPlagiat.FileAnalysisService.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T08:56:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnalysisTests.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\AnalysisTests.csproj",
+              "RelativeDocumentMoniker": "AnalysisTests\\AnalysisTests.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\AnalysisTests\\AnalysisTests.csproj",
+              "RelativeToolTip": "AnalysisTests\\AnalysisTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T15:33:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\appsettings.json",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T16:59:40.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:24:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250515090837_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Migrations\\20250515090837_InitialMigration.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Migrations\\20250515090837_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Migrations\\20250515090837_InitialMigration.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Migrations\\20250515090837_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:36:36.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-21T16:57:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T09:40:13.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.ApiGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.ApiGateway\\ocelot.json",
+              "RelativeToolTip": "HSE.AntiPlagiat.ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T09:52:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HSE.AntiPlagiat.FileStorageService.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\HSE.AntiPlagiat.FileStorageService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T08:52:22.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwv0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T20:23:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T20:23:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HSE.AntiPlagiat.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\HSE.AntiPlagiat.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T09:45:04.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Dockerfile",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileStorageService\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileStorageService\\Dockerfile",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileStorageService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-14T20:07:56.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HSE.AntiPlagiat.FileAnalysisService.http",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.http",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.http",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.http",
+              "RelativeToolTip": "HSE.AntiPlagiat.FileAnalysisService\\HSE.AntiPlagiat.FileAnalysisService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-15T09:21:26.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\appsettings.json",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T20:23:03.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FileDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml",
+              "RelativeDocumentMoniker": "HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\HSE_AntiPlagiat\\HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml",
+              "RelativeToolTip": "HSE.AntiPlagiat.Web\\Pages\\FileDetails.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T20:24:37.073Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+﻿@page "{id:guid}"
+@model FileDetailsModel
+@{
+    ViewData["Title"] = "Детали анализа файла";
+}
+
+<div class="container mt-4">
+    <h2>Анализ файла: @Model.File.FileName</h2>
+
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-info">@TempData["Message"]</div>
+    }
+
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    Информация о файле
+                </div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <strong>Имя файла:</strong> @Model.File.FileName
+                    </div>
+                    <div class="mb-3">
+                        <strong>Дата загрузки:</strong> @Model.File.UploadDate.ToString("dd.MM.yyyy HH:mm")
+                    </div>
+                    <div class="mb-3">
+                        <strong>Размер:</strong> @(Model.File.Size / 1024.0) КБ
+                    </div>
+                    <a href="@Url.Page("./Index")" class="btn btn-secondary">Назад к списку</a>
+                    <a href="#" class="btn btn-primary" id="downloadLink" data-file-id="@Model.File.Id">Скачать файл</a>
+                </div>
+            </div>
+        </div>
+
+        @if (Model.AnalysisResult != null)
+        {
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        Результаты анализа
+                    </div>
+                    <div class="card-body">
+                        <div class="mb-3">
+                            <strong>Количество абзацев:</strong> @Model.AnalysisResult.ParagraphCount
+                        </div>
+                        <div class="mb-3">
+                            <strong>Количество слов:</strong> @Model.AnalysisResult.WordCount
+                        </div>
+                        <div class="mb-3">
+                            <strong>Количество символов:</strong> @Model.AnalysisResult.CharacterCount
+                        </div>
+                        <div class="mb-3">
+                            <strong>Дата анализа:</strong> @Model.AnalysisResult.AnalysisDate.ToString("dd.MM.yyyy HH:mm")
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        Анализ
+                    </div>
+                    <div class="card-body">
+                        <div class="alert alert-warning">
+                            Анализ файла еще не завершен. Пожалуйста, обновите страницу через несколько секунд.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    @if (Model.AnalysisResult?.PlagiarismResults?.Any() == true)
+    {
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        Результаты проверки на плагиат
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Файл</th>
+                                    <th>Процент совпадения</th>
+                                    <th>Дата сравнения</th>
+                                    <th>Действия</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var result in Model.AnalysisResult.PlagiarismResults)
+                                {
+                                    <tr class="@(result.SimilarityPercentage >= 50 ? "table-danger" : "")">
+                                        <td>@result.ComparedFileName</td>
+                                        <td>@result.SimilarityPercentage.ToString("F2")%</td>
+                                        <td>@result.ComparisonDate.ToString("dd.MM.yyyy HH:mm")</td>
+                                        <td>
+                                            <a asp-page="./FileDetails" asp-route-id="@result.ComparedFileId" class="btn btn-sm btn-info">Просмотр</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+    @if (!string.IsNullOrEmpty(Model.AnalysisResult?.WordCloudUrl))
+    {
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        Облако слов
+                    </div>
+                    <div class="card-body text-center">
+                        <img src="@Model.AnalysisResult.WordCloudUrl" alt="Облако слов" class="img-fluid" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('downloadLink').addEventListener('click', function(e) {
+            e.preventDefault();
+            const fileId = this.getAttribute('data-file-id');
+            window.location = `/api/files/${fileId}`;
+        });
+    </script>
+}

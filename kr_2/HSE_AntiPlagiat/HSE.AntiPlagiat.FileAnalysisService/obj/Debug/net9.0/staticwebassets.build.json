@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QtlJgtnMFSW0N8xQ2PzKwwS1Q53a9rK14mQ0tadLXk0=",
+  "Source": "HSE.AntiPlagiat.FileAnalysisService",
+  "BasePath": "_content/HSE.AntiPlagiat.FileAnalysisService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

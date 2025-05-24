@@ -1,0 +1,6 @@
+@HSE.AntiPlagiat.FileAnalysisService_HostAddress = http://localhost:5298
+
+GET {{HSE.AntiPlagiat.FileAnalysisService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

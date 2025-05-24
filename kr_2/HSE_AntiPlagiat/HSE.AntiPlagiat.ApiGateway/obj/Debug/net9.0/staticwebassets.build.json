@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "m7ptkHx05raTEBOxujfiUmSsu/qo8M2G+fe1tD/8JTM=",
+  "Source": "HSE.AntiPlagiat.ApiGateway",
+  "BasePath": "_content/HSE.AntiPlagiat.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9dVaLbBR2GAZvbX0wlhSInQgjz9y2ISh7vIN9iSo8FI=",
+  "Source": "HSE.AntiPlagiat.FileStorageService",
+  "BasePath": "_content/HSE.AntiPlagiat.FileStorageService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

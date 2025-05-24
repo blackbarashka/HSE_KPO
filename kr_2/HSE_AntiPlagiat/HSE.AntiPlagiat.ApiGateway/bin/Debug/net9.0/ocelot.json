@@ -1,0 +1,29 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/api/files/{everything}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "filestore",
+                    "Port": 80
+                }
+            ],
+            "UpstreamPathTemplate": "/api/files/{everything}",
+            "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+        },
+        {
+            "DownstreamPathTemplate": "/api/analysis/{everything}",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "fileanalysis",
+                    "Port": 80
+                }
+            ],
+            "UpstreamPathTemplate": "/api/analysis/{everything}",
+            "UpstreamHttpMethod": [ "GET", "POST" ]
+        }
+    ],
+    "GlobalConfiguration": {}
+}

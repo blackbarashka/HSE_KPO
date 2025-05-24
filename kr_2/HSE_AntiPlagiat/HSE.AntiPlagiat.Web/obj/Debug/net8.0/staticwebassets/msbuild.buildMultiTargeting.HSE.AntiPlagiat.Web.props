@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HSE.AntiPlagiat.Web.props" />
+</Project>

@@ -1,0 +1,69 @@
+services:
+  postgres:
+    image: postgres:14
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./init-multiple-databases.sh:/docker-entrypoint-initdb.d/init-multiple-databases.sh
+  filestore:
+    build:
+      context: .
+      dockerfile: HSE.AntiPlagiat.FileStorageService/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=filestore;Username=postgres;Password=postgres;
+    depends_on:
+      - postgres
+    volumes:
+      - file-storage:/app/Storage
+    ports:
+      - "8085:80"
+
+  fileanalysis:
+    build:
+      context: .
+      dockerfile: HSE.AntiPlagiat.FileAnalysisService/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=fileanalysis;Username=postgres;Password=postgres;
+      - Services__FileStorageService=http://filestore
+    depends_on:
+      - postgres
+      - filestore
+    ports:
+      - "8082:80"
+
+  apigateway:
+    build:
+      context: .
+      dockerfile: HSE.AntiPlagiat.ApiGateway/Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - filestore
+      - fileanalysis
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  webapp:
+    build:
+      context: .
+      dockerfile: HSE.AntiPlagiat.Web/Dockerfile
+    ports:
+      - "8081:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ApiGateway__BaseUrl=http://apigateway
+    depends_on:
+      - apigateway
+    volumes:
+       - webapp-keys:/keys
+
+volumes:
+  postgres-data:
+  file-storage:
+  webapp-keys:  

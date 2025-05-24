@@ -1,0 +1,6 @@
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\bin\Debug\net9.0\CoverletSourceRootsMapping_AnalysisTests
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\obj\Debug\net9.0\AnalysisTests.csproj.AssemblyReference.cache
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\obj\Debug\net9.0\AnalysisTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\obj\Debug\net9.0\AnalysisTests.AssemblyInfoInputs.cache
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\obj\Debug\net9.0\AnalysisTests.AssemblyInfo.cs
+C:\Users\umaha\source\repos\HSE_AntiPlagiat\AnalysisTests\obj\Debug\net9.0\AnalysisTests.csproj.CoreCompileInputs.cache
