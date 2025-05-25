@@ -53,14 +53,23 @@
 `docker-compose up -d`
 
 Для работы программы должна быть база данных, поэтому, если при загрузке файла, программа выводит ошибку:
-Все выполнять в терминале решения
+
+**Все выполнять в терминале решения**
+
 3. Установите инструмент dotnet-ef:
+   
    -`dotnet tool install --global dotnet-ef`
+   
 4. Команда миграции для двух баз:
+   
 -`dotnet ef migrations add AddPendingChanges -p HSE.AntiPlagiat.FileAnalysisService -s HSE.AntiPlagiat.FileAnalysisService`
+
 -`dotnet ef migrations add AddPendingChanges -p HSE.AntiPlagiat.FileStorageService -s HSE.AntiPlagiat.FileStorageService`
+
 5. Последнее:
+    
 -`dotnet ef database update -p HSE.AntiPlagiat.FileAnalysisService -s HSE.AntiPlagiat.FileAnalysisService`
+
 -`dotnet ef database update -p HSE.AntiPlagiat.FileStorageService -s HSE.AntiPlagiat.FileStorageService`
 
 6. Сервисы находятся по следующим ссылкам:
