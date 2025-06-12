@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrdersService</name>
+    </assembly>
+    <members>
+        <member name="T:OrdersService.Controllers.OrdersController">
+            <summary>
+            Контроллер для управления заказами в интернет-магазине
+            </summary>
+        </member>
+        <member name="M:OrdersService.Controllers.OrdersController.#ctor(OrdersService.Services.IOrderService,Microsoft.Extensions.Logging.ILogger{OrdersService.Controllers.OrdersController})">
+            <summary>
+            Конструктор контроллера заказов
+            </summary>
+            <param name="orderService"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:OrdersService.Controllers.OrdersController.CreateOrder(Common.Models.CreateOrderRequest)">
+            <summary>
+            Создание нового заказа
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OrdersService.Controllers.OrdersController.GetUserOrders(System.String)">
+            <summary>
+            Получение списка заказов пользователя
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:OrdersService.Controllers.OrdersController.GetOrder(System.String)">
+            <summary>
+            Получение заказа по ID
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

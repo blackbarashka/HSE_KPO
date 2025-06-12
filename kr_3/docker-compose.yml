@@ -1,0 +1,92 @@
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_MULTIPLE_DATABASES=orders_db,payments_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init-multiple-databases.sh:/docker-entrypoint-initdb.d/init-multiple-databases.sh
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+      - "15672:15672"
+    healthcheck:
+      test: ["CMD", "rabbitmqctl", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      
+  api-gateway:
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    depends_on:
+      - orders-service
+      - payments-service
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ReverseProxy__Clusters__orders-cluster__Destinations__orders-api__Address=http://orders-service:80
+      - ReverseProxy__Clusters__payments-cluster__Destinations__payments-api__Address=http://payments-service:80
+    ports:
+      - "8000:80"
+      
+  orders-service:
+    build:
+      context: .
+      dockerfile: OrdersService/Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__OrdersDatabase=Host=postgres;Database=orders_db;Username=postgres;Password=postgres
+      - MessageBroker__Host=rabbitmq
+      - MessageBroker__Port=5672
+      - MessageBroker__Username=guest
+      - MessageBroker__Password=guest
+      
+  payments-service:
+    build:
+      context: .
+      dockerfile: PaymentsService/Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__PaymentsDatabase=Host=postgres;Database=payments_db;Username=postgres;Password=postgres
+      - MessageBroker__Host=rabbitmq
+      - MessageBroker__Port=5672
+      - MessageBroker__Username=guest
+      - MessageBroker__Password=guest
+      
+  web-ui:
+    build:
+      context: .
+      dockerfile: WebUI/Dockerfile
+    depends_on:
+      - api-gateway
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ApiGatewayUrl=http://api-gateway:80
+    ports:
+      - "8080:80"
+
+volumes:
+  postgres_data:

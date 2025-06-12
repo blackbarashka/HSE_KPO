@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PaymentsService</name>
+    </assembly>
+    <members>
+        <member name="T:PaymentsService.Controllers.AccountsController">
+            <summary>
+            Контроллер для управления счетами пользователей в сервисе платежей
+            </summary>
+        </member>
+        <member name="M:PaymentsService.Controllers.AccountsController.#ctor(PaymentsService.Services.IAccountService,Microsoft.Extensions.Logging.ILogger{PaymentsService.Controllers.AccountsController})">
+            <summary>
+            Конструктор контроллера счетов
+            </summary>
+            <param name="accountService"></param>
+            <param name="logger"></param>
+        </member>
+        <member name="M:PaymentsService.Controllers.AccountsController.CreateAccount(Common.Models.CreateAccountRequest)">
+            <summary>
+            Создание нового счета для пользователя
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PaymentsService.Controllers.AccountsController.TopUp(Common.Models.TopUpAccountRequest)">
+            <summary>
+            Пополнение счета пользователя
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PaymentsService.Controllers.AccountsController.GetBalance(System.String)">
+            <summary>
+            Получение баланса счета пользователя
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,77 @@
+﻿@page
+@model WebUI.Pages.Orders.DetailsModel
+@{
+    ViewData["Title"] = "Детали заказа";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col">
+            <h2>Детали заказа</h2>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-page="/Index">Главная</a></li>
+                    <li class="breadcrumb-item"><a asp-page="/Orders/Index">Заказы</a></li>
+                    <li class="breadcrumb-item active">Детали заказа</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">@Model.ErrorMessage</div>
+    }
+    else if (Model.Order != null)
+    {
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Заказ #@Model.Order.Id</h5>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Описание:</strong> @Model.Order.Description</p>
+                        <p><strong>Сумма:</strong> @Model.Order.Amount ₽</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p>
+                            <strong>Статус:</strong>
+                            <span class="badge bg-@GetStatusClass(Model.Order.Status)">@GetStatusText(Model.Order.Status)</span>
+                        </p>
+                        <p><strong>Создан:</strong> @Model.Order.CreatedAt.ToString("dd.MM.yyyy HH:mm")</p>
+                        <p><strong>Обновлен:</strong> @Model.Order.UpdatedAt.ToString("dd.MM.yyyy HH:mm")</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning">Заказ не найден.</div>
+    }
+</div>
+
+@functions {
+    private string GetStatusClass(string status)
+    {
+        return status switch
+        {
+            "New" => "secondary",
+            "Processing" => "primary",
+            "Finished" => "success",
+            "Cancelled" => "danger",
+            _ => "secondary"
+        };
+    }
+
+    private string GetStatusText(string status)
+    {
+        return status switch
+        {
+            "New" => "Новый",
+            "Processing" => "В обработке",
+            "Finished" => "Выполнен",
+            "Cancelled" => "Отменен",
+            _ => status
+        };
+    }
+}

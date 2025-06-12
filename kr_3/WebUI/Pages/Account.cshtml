@@ -1,0 +1,60 @@
+﻿@page
+@model WebUI.Pages.AccountModel
+@{
+    ViewData["Title"] = "Управление счетом";
+}
+
+
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col">
+            <h2>Управление счетом</h2>
+        </div>
+    </div>
+
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">@Model.ErrorMessage</div>
+    }
+
+    @if (Model.Account == null)
+    {
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">У вас еще нет счета</h5>
+                <form method="post" asp-page-handler="CreateAccount">
+                    <button type="submit" class="btn btn-primary">Создать счет</button>
+                </form>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="card mb-4">
+            <div class="card-body">
+                <h5 class="card-title">Информация о счете</h5>
+                <p><strong>Баланс:</strong> @Model.Account.Balance ₽</p>
+                <p><strong>Создан:</strong> @Model.Account.CreatedAt.ToString("dd.MM.yyyy HH:mm")</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Пополнение счета</h5>
+                <form method="post" asp-page-handler="TopUpAccount">
+                    <div class="mb-3">
+                        <label for="amount" class="form-label">Сумма</label>
+                        <input type="number" class="form-control" id="amount" name="amount" min="1" value="100" required />
+                    </div>
+                    <button type="submit" class="btn btn-success">Пополнить</button>
+                </form>
+            </div>
+        </div>
+    }
+</div>
+
+
+<div class="text-center mb-4">
+    <img src="~/images/cat2.jpg alt="Управление финансами" class="img-fluid rounded" style="max-width: 400px;" />
+</div>

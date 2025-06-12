@@ -1,0 +1,881 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|scripts{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\init-multiple-databases.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|scripts{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}|solutionrelative:init-multiple-databases.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD2E70-083B-4409-8F3D-7CE300F84109}|OrderServiceTests\\OrderServiceTests.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\orderservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD2E70-083B-4409-8F3D-7CE300F84109}|OrderServiceTests\\OrderServiceTests.csproj|solutionrelative:orderservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AB7DC5-1FE1-4C30-89A9-7650513DEF5A}|OrdersControllerTests\\OrdersControllerTests.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\orderscontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AB7DC5-1FE1-4C30-89A9-7650513DEF5A}|OrdersControllerTests\\OrdersControllerTests.csproj|solutionrelative:orderscontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6704B4EB-FD3A-4A69-9D7E-A00649D8AFC3}|AccountServiceTests\\AccountServiceTests.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\accountservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6704B4EB-FD3A-4A69-9D7E-A00649D8AFC3}|AccountServiceTests\\AccountServiceTests.csproj|solutionrelative:accountservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016BB570-3E3F-4339-8AB6-2AA216BA6235}|AccountsControllerTests\\AccountsControllerTests.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\accountscontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016BB570-3E3F-4339-8AB6-2AA216BA6235}|AccountsControllerTests\\AccountsControllerTests.csproj|solutionrelative:accountscontrollertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\messaging\\transactionaloutboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\messaging\\transactionaloutboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\messaging\\paymentrequestconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\messaging\\paymentrequestconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\data\\entities\\transactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\data\\entities\\transactionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\data\\entities\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\data\\entities\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\data\\entities\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\data\\entities\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\messaging\\transactionaloutboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\messaging\\transactionaloutboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\data\\entities\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\data\\entities\\inboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\hubs\\ordershub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\hubs\\ordershub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\data\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\data\\ordersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\apigateway\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\common\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|solutionrelative:common\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\common\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|solutionrelative:common\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\common\\messages\\paymentmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|solutionrelative:common\\messages\\paymentmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\common\\eventbus\\messagebrokersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCB8C37-6B16-460E-A63E-1134A65C28CC}|Common\\Common.csproj|solutionrelative:common\\eventbus\\messagebrokersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\ordersservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\paymentsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\paymentsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58D26E08-415F-4486-8313-7D298E59C319}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\account.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\ordersservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5AB8ECE-1C5B-42A7-AED4-B4EF8D75B4A3}|OrdersService\\OrdersService.csproj|solutionrelative:ordersservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\services\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\services\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\services\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\services\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\webui\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AF780869-BF39-4F60-9CA1-235F4944E0E9}|WebUI\\WebUI.csproj|solutionrelative:webui\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|c:\\users\\umaha\\source\\repos\\payment_service_hse\\paymentsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F2039CA-7EB0-4AD3-AFA0-4FBB35377BE6}|PaymentsService\\PaymentsService.csproj|solutionrelative:paymentsservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\TransactionEntity.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Data\\Entities\\TransactionEntity.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\TransactionEntity.cs",
+              "RelativeToolTip": "PaymentsService\\Data\\Entities\\TransactionEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:11:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentRequestConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Messaging\\PaymentRequestConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Messaging\\PaymentRequestConsumer.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Messaging\\PaymentRequestConsumer.cs",
+              "RelativeToolTip": "PaymentsService\\Messaging\\PaymentRequestConsumer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:53:04.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionalOutboxProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "RelativeToolTip": "PaymentsService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:52:10.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Program.cs",
+              "RelativeToolTip": "PaymentsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:08:17.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Program.cs",
+              "RelativeToolTip": "OrdersService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:54:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\AccountsControllerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AccountsControllerTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\AccountsControllerTests\\UnitTest1.cs",
+              "RelativeToolTip": "AccountsControllerTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:16:33.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\AccountServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AccountServiceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\AccountServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "AccountServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:37:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersControllerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OrdersControllerTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersControllerTests\\UnitTest1.cs",
+              "RelativeToolTip": "OrdersControllerTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:16:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrderServiceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "OrderServiceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrderServiceTests\\UnitTest1.cs",
+              "RelativeToolTip": "OrderServiceTests\\UnitTest1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwFIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:34:54.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "init-multiple-databases.sh",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\init-multiple-databases.sh",
+              "RelativeDocumentMoniker": "init-multiple-databases.sh",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\init-multiple-databases.sh",
+              "RelativeToolTip": "init-multiple-databases.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2025-06-10T14:38:21.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Data\\Entities\\OutboxMessage.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\OutboxMessage.cs",
+              "RelativeToolTip": "PaymentsService\\Data\\Entities\\OutboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:14:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\InboxMessage.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Data\\Entities\\InboxMessage.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Data\\Entities\\InboxMessage.cs",
+              "RelativeToolTip": "PaymentsService\\Data\\Entities\\InboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:02:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransactionalOutboxProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "RelativeToolTip": "OrdersService\\Messaging\\TransactionalOutboxProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:02:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MessageBrokerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\EventBus\\MessageBrokerSettings.cs",
+              "RelativeDocumentMoniker": "Common\\EventBus\\MessageBrokerSettings.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\EventBus\\MessageBrokerSettings.cs",
+              "RelativeToolTip": "Common\\EventBus\\MessageBrokerSettings.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:07:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "ApiGateway\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:34:21.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAADsBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:29:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:12:05.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\OrdersDbContext.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Data\\OrdersDbContext.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\OrdersDbContext.cs",
+              "RelativeToolTip": "OrdersService\\Data\\OrdersDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:58:51.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InboxMessage.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\Entities\\InboxMessage.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Data\\Entities\\InboxMessage.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\Entities\\InboxMessage.cs",
+              "RelativeToolTip": "OrdersService\\Data\\Entities\\InboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:58:56.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Data\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Data\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "OrdersService\\Data\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:58:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersHub.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Hubs\\OrdersHub.cs",
+              "RelativeDocumentMoniker": "OrdersService\\Hubs\\OrdersHub.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Hubs\\OrdersHub.cs",
+              "RelativeToolTip": "OrdersService\\Hubs\\OrdersHub.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:58:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T08:56:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Models\\Account.cs",
+              "RelativeToolTip": "Common\\Models\\Account.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:04:30.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentMessages.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Messages\\PaymentMessages.cs",
+              "RelativeDocumentMoniker": "Common\\Messages\\PaymentMessages.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Messages\\PaymentMessages.cs",
+              "RelativeToolTip": "Common\\Messages\\PaymentMessages.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:06:06.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\Common\\Models\\Order.cs",
+              "RelativeToolTip": "Common\\Models\\Order.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAywBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:05:13.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdersService.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\OrdersService.csproj",
+              "RelativeDocumentMoniker": "OrdersService\\OrdersService.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\OrdersService.csproj",
+              "RelativeToolTip": "OrdersService\\OrdersService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T15:05:16.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentsService.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\PaymentsService.csproj",
+              "RelativeDocumentMoniker": "PaymentsService\\PaymentsService.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\PaymentsService.csproj",
+              "RelativeToolTip": "PaymentsService\\PaymentsService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T15:06:37.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T14:36:54.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T14:30:29.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\AccountService.cs",
+              "RelativeToolTip": "PaymentsService\\Services\\AccountService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:51:30.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-06-10T14:37:41.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Dockerfile",
+              "RelativeDocumentMoniker": "OrdersService\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\Dockerfile",
+              "RelativeToolTip": "OrdersService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T14:36:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\IAccountService.cs",
+              "RelativeToolTip": "PaymentsService\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:16:49.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:31:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Orders\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "WebUI\\Pages\\Orders\\Index.cshtml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4YAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:05:27.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Index.cshtml",
+              "RelativeToolTip": "WebUI\\Pages\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAIBJwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:05:02.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Details.cshtml",
+              "RelativeToolTip": "WebUI\\Pages\\Orders\\Details.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:10:33.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Account.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Account.cshtml.cs",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Account.cshtml.cs",
+              "RelativeToolTip": "WebUI\\Pages\\Account.cshtml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:03:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Account.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Account.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Account.cshtml",
+              "RelativeToolTip": "WebUI\\Pages\\Account.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:03:35.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebUI\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwDAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T16:02:12.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "signalr-client.js",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\wwwroot\\js\\signalr-client.js",
+              "RelativeDocumentMoniker": "WebUI\\wwwroot\\js\\signalr-client.js",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\wwwroot\\js\\signalr-client.js",
+              "RelativeToolTip": "WebUI\\wwwroot\\js\\signalr-client.js",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAwwHkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-10T16:01:33.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebUI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebUI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T16:12:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebUI\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-10T16:13:26.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Orders\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "WebUI\\Pages\\Orders\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:10:55.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersService\\appsettings.json",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\OrdersService\\appsettings.json",
+              "RelativeToolTip": "OrdersService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T15:12:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\WebUI.csproj",
+              "RelativeDocumentMoniker": "WebUI\\WebUI.csproj",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\WebUI.csproj",
+              "RelativeToolTip": "WebUI\\WebUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T14:31:09.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebUI\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T14:31:42.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebUI\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebUI\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:32:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Services\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\IPaymentProcessor.cs",
+              "RelativeToolTip": "PaymentsService\\Services\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:51:50.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "PaymentsService\\Services\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Services\\PaymentProcessor.cs",
+              "RelativeToolTip": "PaymentsService\\Services\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:51:48.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebUI\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\WebUI\\Dockerfile",
+              "RelativeToolTip": "WebUI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T14:37:18.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Dockerfile",
+              "RelativeDocumentMoniker": "PaymentsService\\Dockerfile",
+              "ToolTip": "C:\\Users\\umaha\\source\\repos\\Payment_Service_hse\\PaymentsService\\Dockerfile",
+              "RelativeToolTip": "PaymentsService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T14:35:42.353Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
