@@ -102,3 +102,54 @@
 
 - Запуск тестов:
   `dotnet test`
+
+
+
+---
+## Пример работы:
+
+## Фронтенд:
+### Главная страница:
+
+![image](https://github.com/user-attachments/assets/e17b918c-2be5-4112-98e2-4594a1f50d06)
+
+### Управление счетом: 
+
+![image](https://github.com/user-attachments/assets/38736eed-371b-4316-aaf1-803448d5a05b)
+
+![image](https://github.com/user-attachments/assets/6913f1d9-fb9d-4d46-a796-772e9b386faa)
+
+
+### Заказы:
+
+![image](https://github.com/user-attachments/assets/182d224d-66b4-4f0c-a59e-4bc094246a60)
+
+### Детали заказа:
+
+![image](https://github.com/user-attachments/assets/9fc16efa-6660-405e-b7aa-632668d6608f)
+
+## Swagger:
+
+### Регестрируемся (вводим X-User-Id):
+
+![image](https://github.com/user-attachments/assets/5a4b5844-3c98-4dee-8b8e-bc1d405749a0)
+
+### Весь функционал реализован:
+
+![image](https://github.com/user-attachments/assets/1cf802db-43eb-4f70-866a-588be274d649)
+
+
+## Статус заказа:
+
+ВНИМАНИЕ: **Если стоимость заказа больше чем баланс пользователя, то заказ не выполнится.**
+
+![image](https://github.com/user-attachments/assets/0a367fb7-dc56-497b-be27-8dcb14d1c748)
+
+После обновления сайта через 5 секунд, статус заказа меняется:
+
+1. ![image](https://github.com/user-attachments/assets/5f862994-a484-43cc-a251-85bfae72a2c4)
+
+2. ![image](https://github.com/user-attachments/assets/5a32678f-b451-4bc8-97d3-653b3cd3d345)
+
+
+
