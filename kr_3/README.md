@@ -103,6 +103,7 @@
 - Запуск тестов:
   `dotnet test`
 
+![image](https://github.com/user-attachments/assets/d0516c04-755d-47d3-a3f8-8d442a22a50d)
 
 
 ---
@@ -150,6 +151,7 @@
 1. ![image](https://github.com/user-attachments/assets/5f862994-a484-43cc-a251-85bfae72a2c4)
 
 2. ![image](https://github.com/user-attachments/assets/5a32678f-b451-4bc8-97d3-653b3cd3d345)
+
 
 
 
